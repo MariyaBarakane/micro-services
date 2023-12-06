@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-12-05T16:12:15.585+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/actuator/refresh"
+}

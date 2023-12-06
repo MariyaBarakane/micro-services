@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECOM.iml" filepath="$PROJECT_DIR$/ECOM.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/billing/billing.iml" filepath="$USER_HOME$/Documents/Ecomproj/billing/billing.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/config-service/config-service.iml" filepath="$USER_HOME$/Documents/Ecomproj/config-service/config-service.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/customer-service/customer-service.iml" filepath="$USER_HOME$/Documents/Ecomproj/customer-service/customer-service.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/gateway-service/gateway-service.iml" filepath="$USER_HOME$/Documents/Ecomproj/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/inventory-service/inventory-service.iml" filepath="$USER_HOME$/Documents/Ecomproj/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Ecomproj/order-service/order-service.iml" filepath="$USER_HOME$/Documents/Ecomproj/order-service/order-service.iml" />
+    </modules>
+  </component>
+</project>
